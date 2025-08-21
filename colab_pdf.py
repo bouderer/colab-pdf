@@ -1,4 +1,4 @@
-def colab_pdf(file_name, notebookpath="/content/drive/MyDrive/cs231n/assignments/assignment1/"):#/content/drive/MyDrive/cs231n/assignments/assignment1
+def colab_pdf(file_name, notebookpath="/content/drive/MyDrive/cs231n/assignments/assignment1/"):
 
     import os
 
